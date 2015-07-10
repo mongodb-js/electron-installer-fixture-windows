@@ -1,0 +1,19 @@
+{
+  "name": "electron-squirrel-startup",
+  "version": "0.0.0",
+  "description": "A fixture Electron app for testing tooling on Windows.",
+  "license": "Apache-2.0",
+  "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
+  "homepage": "http://github.com/mongodb-js/electron-installer-fixture-windows",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mongodb-js/electron-installer-fixture-windows.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha",
+    "ci": "mocha"
+  }
+}
