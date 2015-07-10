@@ -1,6 +1,6 @@
 {
-  "name": "foo-bar",
-  "productName": "Foo Bar",
+  "name": "myapp",
+  "productName": "MyApp",
   "version": "0.0.0",
   "description": "A fixture Electron app for testing app packaging.",
   "authors": "Arlo Basil"
