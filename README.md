@@ -35,5 +35,5 @@ describe('electron-installer-squirrel-windows', function(){
 Apache 2.0
 
 [electron]: https://github.com/atom/electron
-[appveyor_img]: https://ci.appveyor.com/api/projects/status/157smy0vsosp72bu/branch/master?svg=true
+[appveyor_img]: https://ci.appveyor.com/api/projects/status/alotuat82p3423o5/branch/master?svg=true
 [appveyor_url]: https://ci.appveyor.com/project/mongodb-js/electron-installer-fixture-windows/branch/master
