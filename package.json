@@ -15,5 +15,9 @@
   "scripts": {
     "test": "mocha",
     "ci": "mocha"
-  }
+  },
+  "keywords": [
+    "mongodb.js",
+    "electron-installer"
+  ]
 }
